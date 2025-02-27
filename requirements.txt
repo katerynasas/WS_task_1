@@ -1,4 +1,4 @@
-Libraries used in the solution:
+List of libraries:
 abc
 torch
 torch.nn
