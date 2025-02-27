@@ -1,4 +1,4 @@
-In this notebook 3 classification models was built around a publicly available simple MNIST dataset:
+In this notebook 3 classification models were built around a publicly available simple MNIST dataset:
 1) Random Forest;
 2) Feed-Forward Neural Network;
 3) Convolutional Neural Network;
