@@ -1,0 +1,16 @@
+Libraries used in the solution:
+abc
+torch
+torch.nn
+torch.optim
+sklearn.ensemble
+sklearn.metrics
+sklearn.model_selection
+sklearn.datasets
+numpy
+pandas
+torchvision
+torch.utils.data
+sklearn.metrics
+matplotlib.pyplot
+seaborn
